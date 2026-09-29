@@ -5,7 +5,7 @@ import java.net.URL;
 
 
 public class GitHubUserStatistics {
-    public final static String USER_NAME = "OleksandrEkorde";
+    public final static String USER_NAME = "OleksandrEkorde"; // 
 
 
     public static void main(String[] args) {
